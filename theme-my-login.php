@@ -3,11 +3,12 @@
 Plugin Name: (a)squaredstudio login
 Plugin URI: https://asquaredstudio.com
 Description: Themes the WordPress login, registration and forgot password pages according to your theme.
-Version: 1.0
+Version: 0.1
 Author: (a)squaredstudio
 Author URI: https://asquaredstudio.com
 Text Domain: asquaredstudio-login
 Domain Path: /languages
+GitHub Plugin URI: https://github.com/asquaredstudio/asquared-login
 */
 
 // Allow custom functions file
